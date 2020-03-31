@@ -71,7 +71,7 @@ const Countries = () => {
   return (
     <>
       <h3 className="title" style={{ marginTop: "2rem" }}>
-        Get the Record of Every Country in The World
+        Get the Record of Every Country In The World
       </h3>
       <Filter country={country} setCountry={setCountry} />
       {countries ? (
